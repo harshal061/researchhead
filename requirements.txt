@@ -1,0 +1,14 @@
+streamlit
+groq
+python-dotenv
+chromadb
+sentence-transformers
+transformers
+rank-bm25
+numpy
+pandas
+requests
+pydantic
+torch
+rapidfuzz
+feedparser
